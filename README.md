@@ -1,5 +1,5 @@
-# Ray.so
-Ray.so clone is an online tool that allows users to create beautiful screenshots of their code. It's particularly useful for developers, designers, and educators who want to share code snippets in a visually appealing format.
+# Snap Code
+Snap Code is an online tool that allows users to create beautiful screenshots of their code. It's particularly useful for developers, designers, and educators who want to share code snippets in a visually appealing format.
 
 </br>
 
@@ -30,7 +30,7 @@ Ray.so clone is an online tool that allows users to create beautiful screenshots
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/thapasijan171/RaySo.git
+   git clone https://github.com/thapasijan171/snap-code.git
    ```
 2. Navigate to the directory
 ```bash
