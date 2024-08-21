@@ -1,14 +1,39 @@
-# Snap Code
+# Snap Code 
+
 Snap Code is an online tool that allows users to create beautiful screenshots of their code. It's particularly useful for developers, designers, and educators who want to share code snippets in a visually appealing format.
 
+![screenshot](./public/images/demo.png)
 </br>
 
-## Key Features:
-- <b>Customizable Themes</b>: Ray.so offers various themes and background options, allowing users to tailor the appearance of their code snippets.
-- <b>Syntax Highlighting</b>: The tool automatically highlights syntax based on the language selected, enhancing readability.
-- <b>Ease of Use</b>: Users can simply paste their code into Ray.so, adjust the settings, and generate a downloadable image of the code.
-- <b>Transparency Option</b>: You can create code screenshots with transparent backgrounds, making it easier to overlay on different backgrounds.
-- <b>Shareability:</b> Once a code snippet is styled, it can be easily shared on social media or included in presentations and documentation.
+<br> 
+
+# Key Features:
+<br>
+
+### <b>Customizable Themes</b>: Ray.so offers various themes and background options, allowing users to tailor the appearance of their code snippets.
+
+![screenshot](./public/images/CustomizableThemes.png)
+
+<br>
+
+### Syntax Highlighting</br>: The tool automatically highlights syntax based on the language selected, enhancing readability.
+
+![screenshot](./public/images/SyntaxHighlighting.png) 
+
+<br>
+
+### Ease of Use</b>: Users can simply paste their code into Ray.so, adjust the settings, and generate a downloadable image of the code.
+
+![screenshot](./public/images/EaseOfUse.png) 
+
+<br>
+
+
+### Transparency Option</b>: You can create code screenshots with transparent backgrounds, making it easier to overlay on different backgrounds.
+
+<br>
+
+### Shareability:</b> Once a code snippet is styled, it can be easily shared on social media or included in presentations and documentation.
 
 </br>
 
@@ -50,3 +75,4 @@ or
 yarn dev
 ```
 Open http://localhost:5173/ in your browser to see the Snap Code in action.
+s
