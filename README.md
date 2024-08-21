@@ -49,4 +49,4 @@ or
 ```bash
 yarn dev
 ```
-Open http://localhost:5173/ in your browser to see the Ray.so in action.
+Open http://localhost:5173/ in your browser to see the Snap Code in action.
