@@ -17,3 +17,36 @@ Ray.so clone is an online tool that allows users to create beautiful screenshots
 - <b>Presentations</b>: Improve the visual appeal of code demonstrations.
 - <b>Social Media</b>: Share clean, well-formatted code on platforms like Twitter, LinkedIn, or GitHub.
 
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js
+
+- npm 
+
+### Installation
+
+1. Clone the repository:
+```bash
+   git clone https://github.com/thapasijan171/RaySo.git
+   ```
+2. Navigate to the directory
+```bash
+   cd RaySo
+   ```
+3. Install the dependencies
+```bash
+   npm install
+   ```
+### Running the App
+Start the development server:
+``` bash
+npm run dev
+```
+or
+```bash
+yarn dev
+```
+Open http://localhost:5173/ in your browser to see the Ray.so in action.
